@@ -1,5 +1,5 @@
 import DiabetesLogForm from "./components/DiabetesLogForm"
-import Layout from "./components/layout"
+import Layout from "./components/Layout"
 import Hero from "./components/Hero"
 import Stats from "./components/Stats"
 import History from "./components/History"
