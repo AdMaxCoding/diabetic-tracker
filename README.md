@@ -1,6 +1,6 @@
 # diabetic-tracker
 
-A web application for logging and monitoring **blood sugar**, **carbohydrates eaten**, and **insulin given**.  
+A React.JS web application styled using Fanta.CSS design library, for logging and monitoring **blood sugar**, **carbohydrates eaten**, and **insulin given**.  
 The app uses **Firebase** for authentication and data storage, making it easy for users to securely track and review their diabetes-related data.
 
 ---
